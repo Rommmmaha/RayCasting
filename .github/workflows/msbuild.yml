@@ -46,6 +46,6 @@ jobs:
     - uses: actions/upload-artifact@v4
       with:
         name: build
-        path: RayCasting\x64\Release\RayCasting.exe
+        path: D:\a\RayCasting\RayCasting\x64\Release\RayCasting.exe
         retention-days: 3
         compression-level: 9
